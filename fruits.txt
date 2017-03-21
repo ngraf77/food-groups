@@ -13,3 +13,4 @@ catalope
 watermelon
 peaches
 starfruit
+pluots
