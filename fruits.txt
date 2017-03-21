@@ -12,3 +12,4 @@ apricots
 catalope
 watermelon
 peaches
+starfruit
